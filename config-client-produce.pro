@@ -1,1 +1,1 @@
-cname=chinasofti etc java2001
+cname=chinasofti etc java2001 pro
